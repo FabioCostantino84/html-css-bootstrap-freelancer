@@ -5,3 +5,32 @@
 body{
     font-family: Helvetica, sans-serif;
 }
+:root{
+    --boo-dark-light:#333 ;
+    --boo-primary-darker: #2C3E50 ;
+    --boo-primary-dark:#3a546d;
+    --boo-white:#fff;
+    --boo-success-light:#1aba9b;
+}
+
+/* #region main */
+
+.jumbotron{
+    background-color: var(--boo-success-light);
+}
+.jumbotron>.container{
+    width: 100%;
+}
+.jumbotron img{
+    width: 300px;
+}
+.star_row{
+    height: 4px;
+    width: 15%;
+    background-color: var(--boo-white);
+}
+.star_row>i{
+    size: 50px;
+}
+
+/* #endregion main */
