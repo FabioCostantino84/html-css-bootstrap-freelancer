@@ -25,12 +25,15 @@ body{
     width: 300px;
 }
 .star_row{
-    height: 4px;
-    width: 15%;
-    background-color: var(--boo-white);
+    height: 3px;
+    width: 10%;
 }
 .star_row>i{
     size: 50px;
+}
+
+.about{
+    background-color: var(--boo-success-light);
 }
 
 /* #endregion main */
