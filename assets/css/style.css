@@ -1,4 +1,4 @@
-.debug #site_header {
+#site_header {
     height: 90px;
     background-color: var(--boo-primary-dark);
 
@@ -72,3 +72,4 @@ body {
 }
 
 /* #endregion footer */
+
