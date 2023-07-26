@@ -16,10 +16,6 @@ body {
     --boo-success-light: #1aba9b;
 }
 
-.filter_invert{
-    filter: invert(1);
-}
-
 /* #region main */
 
 .jumbotron {
